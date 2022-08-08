@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bkim/static/css/main.073c9b0a.css",
-    "main.js": "/bkim/static/js/main.8c158707.js",
+    "main.js": "/bkim/static/js/main.a86fbd91.js",
     "static/js/787.66b3c677.chunk.js": "/bkim/static/js/787.66b3c677.chunk.js",
     "static/media/logo.svg": "/bkim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bkim/index.html",
     "main.073c9b0a.css.map": "/bkim/static/css/main.073c9b0a.css.map",
-    "main.8c158707.js.map": "/bkim/static/js/main.8c158707.js.map",
+    "main.a86fbd91.js.map": "/bkim/static/js/main.a86fbd91.js.map",
     "787.66b3c677.chunk.js.map": "/bkim/static/js/787.66b3c677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8c158707.js"
+    "static/js/main.a86fbd91.js"
   ]
 }
